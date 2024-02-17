@@ -8,7 +8,16 @@ Simple text adventure, assignment for the IVGC course.
 
 Play here: https://tap-ant.github.io/TheReturn/ 
 
-Check the code: https://github.com/Tap-Ant/TheReturn 
+Repository: https://github.com/Tap-Ant/TheReturn 
+
+## Flappy McFlapface
+Simple as a game, valuable as an exercise in Unity fundamentals. (Press space to fly!)
+
+![flappymcscreenshot](https://github.com/Tap-Ant/portfolio/assets/39406675/32545286-2d16-4aeb-8d29-65f3e938ea88)
+
+Play: https://tap-ant.github.io/FlappyMcFlapface/ 
+
+Repository: https://github.com/Tap-Ant/FlappyMcFlapface
 
 ## Scavengers
 2D top-down roguelike with procedurally generated levels. Assets from learn.unity.com.
@@ -17,4 +26,4 @@ Check the code: https://github.com/Tap-Ant/TheReturn
 
 Play: https://tap-ant.github.io/Unity-Scavengers/
 
-Check the code: https://github.com/Tap-Ant/Unity-Scavengers 
+Repository: https://github.com/Tap-Ant/Unity-Scavengers 
