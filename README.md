@@ -13,7 +13,7 @@ Repository: https://github.com/Tap-Ant/TheReturn
 ## Flappy McFlapface
 Simple as a game, valuable as an exercise in Unity fundamentals. (Press space to fly!)
 
-![flappymcscreenshot](https://github.com/Tap-Ant/portfolio/assets/39406675/d64ecf63-b5da-4e7b-b684-9f583b14d68b)
+![flappymcscreenshot](https://github.com/Tap-Ant/portfolio/assets/39406675/23a31117-cffc-4eb3-9a93-428eeae60df3)
 
 Play: https://tap-ant.github.io/FlappyMcFlapface/ 
 
