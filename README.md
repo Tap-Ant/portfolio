@@ -19,13 +19,17 @@ Play here: https://tap-ant.github.io/TheReturn/
 
 Repository: https://github.com/Tap-Ant/TheReturn 
 
-## Coming soon: Iloinen kana
+## Iloinen kana
 My very own via dolorosa, a simple Android game where I made everything from scratch. Featuring...
 
 - Ugly sprites!
 - Dead silence!
 - A quit button!
 - Bugs!
+
+![screenshot_ik](https://github.com/Tap-Ant/portfolio/assets/39406675/4e9a9c16-71fa-4480-bb27-3ae417824f40)
+
+Download the .apk: https://github.com/Tap-Ant/portfolio/blob/main/Downloads/iloinen_kana_1.3.apk
 
 ## Flappy McFlapface
 Simple as a game, valuable as an exercise in Unity fundamentals. (Press space to fly!)
