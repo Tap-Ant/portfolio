@@ -8,8 +8,6 @@ Card combat game (like Hearthstone). assignment for the IVGC* course.
 
 ![merlin1 3](https://github.com/Tap-Ant/portfolio/assets/39406675/5f795234-9653-40dc-a09e-bfed19c873ca)
 
-![screenshot_wip](https://github.com/Tap-Ant/portfolio/assets/39406675/c40d05c5-65ba-48b8-9aa3-b5f0b11c86c9)
-
 Repository: https://github.com/Tap-Ant/MerlinsDemonWar
 
 ## The Return
