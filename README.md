@@ -6,7 +6,9 @@ A link collection of my video game projects, featuring brief descriptions and oc
 ## Work in progress: Merlin's Demon War
 Card combat game (like Hearthstone). assignment for the IVGC* course.
 
-![merlin1 3](https://github.com/Tap-Ant/portfolio/assets/39406675/5f795234-9653-40dc-a09e-bfed19c873ca)
+![screenshot](https://github.com/Tap-Ant/portfolio/assets/39406675/074d779f-3b29-4b8e-84b3-917b07d7d8ca)
+
+Play here: https://tap-ant.github.io/MerlinsDemonWar/ 
 
 Repository: https://github.com/Tap-Ant/MerlinsDemonWar
 
