@@ -2,14 +2,14 @@
 A link collection of my video game projects, featuring brief descriptions and occasionally playable WebGL builds.
 
 
-## Work in Progress: Snake
+## Snake
 You know, it's Snake! For Android.
 
-![screenshot_wip](https://github.com/Tap-Ant/portfolio/assets/39406675/d2e94bd4-c5dd-4694-a5f4-d96edf37c047)
+![Screenshot_20240724-192738](https://github.com/user-attachments/assets/8489f5df-4e3c-4f65-ab78-ceee462f7e58)
 
-Play here: TBA
+Play here: https://tap-ant.github.io/SnakeMobile/
 
-Repository: https://github.com/Tap-Ant/SnakeMobile
+Repository (with .apk): https://github.com/Tap-Ant/SnakeMobile
 
 ## Merlin's Demon War
 Card combat game (like Hearthstone). assignment for the IVGC* course.
