@@ -5,7 +5,7 @@ A link collection of my video game projects, featuring brief descriptions and oc
 ## Snake
 You know, it's Snake! For Android.
 
-![Screenshot_20240724-192738](https://github.com/user-attachments/assets/8489f5df-4e3c-4f65-ab78-ceee462f7e58)
+![Screenshot_20240724-192738](https://github.com/user-attachments/assets/4162f445-7bf6-4387-82f9-f8fd30527bc3)
 
 Play here: https://tap-ant.github.io/SnakeMobile/
 
