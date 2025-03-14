@@ -1,6 +1,10 @@
 # Tapio Anttila's game portfolio
 A link collection of my video game projects, featuring brief descriptions and occasionally playable WebGL builds.
 
+## Work In Progress: shmup.
+Spaceships, powerups, explosions!
+
+![image](https://github.com/user-attachments/assets/4b919f6b-ef83-444b-a9b5-4e78b6013ac1)
 
 ## Snake
 You know, it's Snake! For Android.
@@ -12,7 +16,7 @@ Play here: https://tap-ant.github.io/SnakeMobile/
 Repository (with .apk): https://github.com/Tap-Ant/SnakeMobile
 
 ## Merlin's Demon War
-Card combat game (like Hearthstone). assignment for the IVGC* course.
+Card combat against an endless horde of demons.
 
 ![screenshot](https://github.com/Tap-Ant/portfolio/assets/39406675/074d779f-3b29-4b8e-84b3-917b07d7d8ca)
 
@@ -21,7 +25,7 @@ Play here: https://tap-ant.github.io/MerlinsDemonWar/
 Repository: https://github.com/Tap-Ant/MerlinsDemonWar
 
 ## The Return
-Simple text adventure, assignment for the IVGC course.
+A simple text adventure.
 
 ![screenshot](https://github.com/Tap-Ant/portfolio/assets/39406675/b1aa315b-9ddc-4499-8c15-c12cde839fe7)
 
@@ -58,6 +62,4 @@ Currently playable on touchscreen only.
 
 Play: https://tap-ant.github.io/Unity-Scavengers/
 
-Repository: https://github.com/Tap-Ant/Unity-Scavengers 
-
-*IVGC: Introduction to Video Games Creation, online course from XAMK open university, Cambridge Academy of Digital Games and Innovation, and Cypherdelic.
+Repository: https://github.com/Tap-Ant/Unity-Scavengers
