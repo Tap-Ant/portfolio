@@ -11,7 +11,7 @@ You know, it's Snake! For Android.
 
 ![Screenshot_20240724-192738](https://github.com/user-attachments/assets/4162f445-7bf6-4387-82f9-f8fd30527bc3)
 
-Play here: https://tap-ant.github.io/SnakeMobile/
+Play here (by clicking & 'swiping' the screen): https://tap-ant.github.io/SnakeMobile/
 
 Repository (with .apk): https://github.com/Tap-Ant/SnakeMobile
 
